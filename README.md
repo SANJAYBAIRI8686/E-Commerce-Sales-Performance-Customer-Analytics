@@ -1,3 +1,12 @@
+E-Commerce Sales Performance & Customer Analytics
+
+Comprehensive Data Analysis Project
+
+📁 Project Overview
+
+This project analyzes online retail transaction data to uncover customer behavior, product performance, sales patterns, and data-driven business opportunities.
+
+Using Python, SQL, and statistical analysis, the project delivers a clear understanding of what drives revenue and customer loyalty.
 Key Features
 
 🧼 Data Cleaning & Preprocessing (handling missing values, outliers, duplicates)
